@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="IGenerateLottoNumbers.cs" />
     <Compile Include="LottoGame.cs" />
+    <Compile Include="LottoMax.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
